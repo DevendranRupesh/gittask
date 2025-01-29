@@ -21,6 +21,7 @@ public class Baseclass {
             public static Alert alert;
             public static Select sc1;
             public static Select oc1;
+            public static Select oc2;
 
 
 
