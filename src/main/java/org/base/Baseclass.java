@@ -19,6 +19,7 @@ public class Baseclass {
             public static Actions a;
             public static Select sc;
             public static Alert alert;
+            public static Select sc1;
 
 
 
